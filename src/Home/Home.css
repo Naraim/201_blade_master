@@ -1,0 +1,118 @@
+@font-face {
+  font-family: 'Poppins-SemiBold';
+  src: url(../assets/fonts/Poppins-SemiBold.ttf);
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Poppins-Bold';
+  src: url(../assets/fonts/Poppins-Bold.ttf);
+  font-weight: 700;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background-image: url(../assets/img/background-home.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container__top {
+  height: 10vh;
+  width: 100vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: fixed;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.borderLeft {
+  margin: 40px 30px;
+  position: fixed;
+  width: 70vw;
+  height: 95vh;
+  overflow: hidden;
+  background-image: url(../assets/img/border-left.svg);
+  background-position: left top;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.logos {
+  position: fixed;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  right: 6vw;
+  bottom: 5vh;
+}
+
+.logos__item {
+  padding-left: 30px;
+}
+
+.mainTitle {
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100vh;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.mainTitle__text {
+  font-family: 'Poppins-Bold';
+  padding: 10px 40px;
+  font-size: 5vw;
+  text-align: center;
+  color: #ffff;
+  border: 4px solid #ffff;
+}
+
+.navbar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  margin: 30px 100px;
+}
+
+.navbar__item {
+  list-style: none;
+  padding: 0 30px;
+  border-right: 3px solid #ffffff9d;
+}
+
+.navbar__link {
+  font-family: 'Poppins-Semibold';
+  color: #ffffff9d;
+  text-decoration: none;
+}
+
+.navbar__link:hover {
+  color: #ffffff;
+}
+/*# sourceMappingURL=Home.css.map */
