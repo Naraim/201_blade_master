@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "//201_blade_master/static/css/main.2b980666.chunk.css",
-    "main.js": "//201_blade_master/static/js/main.a8911e64.chunk.js",
-    "main.js.map": "//201_blade_master/static/js/main.a8911e64.chunk.js.map",
-    "runtime-main.js": "//201_blade_master/static/js/runtime-main.a0de5446.js",
-    "runtime-main.js.map": "//201_blade_master/static/js/runtime-main.a0de5446.js.map",
-    "static/js/2.f9f0db7f.chunk.js": "//201_blade_master/static/js/2.f9f0db7f.chunk.js",
-    "static/js/2.f9f0db7f.chunk.js.map": "//201_blade_master/static/js/2.f9f0db7f.chunk.js.map",
-    "index.html": "//201_blade_master/index.html",
-    "precache-manifest.2f670e1c62ea8388cb0d16b4ec96b0dc.js": "//201_blade_master/precache-manifest.2f670e1c62ea8388cb0d16b4ec96b0dc.js",
-    "service-worker.js": "//201_blade_master/service-worker.js",
-    "static/css/main.2b980666.chunk.css.map": "//201_blade_master/static/css/main.2b980666.chunk.css.map",
-    "static/js/2.f9f0db7f.chunk.js.LICENSE.txt": "//201_blade_master/static/js/2.f9f0db7f.chunk.js.LICENSE.txt",
-    "static/media/App.css": "//201_blade_master/static/media/gallery.731a3594.jpg",
-    "static/media/behance-logo.svg": "//201_blade_master/static/media/behance-logo.0851cd39.svg",
-    "static/media/github-logo.svg": "//201_blade_master/static/media/github-logo.0736056d.svg"
+    "main.css": "/201_blade_master/static/css/main.cea9e08d.chunk.css",
+    "main.js": "/201_blade_master/static/js/main.a8911e64.chunk.js",
+    "main.js.map": "/201_blade_master/static/js/main.a8911e64.chunk.js.map",
+    "runtime-main.js": "/201_blade_master/static/js/runtime-main.68d8c4d8.js",
+    "runtime-main.js.map": "/201_blade_master/static/js/runtime-main.68d8c4d8.js.map",
+    "static/js/2.f9f0db7f.chunk.js": "/201_blade_master/static/js/2.f9f0db7f.chunk.js",
+    "static/js/2.f9f0db7f.chunk.js.map": "/201_blade_master/static/js/2.f9f0db7f.chunk.js.map",
+    "index.html": "/201_blade_master/index.html",
+    "precache-manifest.88a4db0b890904ea3e827f60b0b251ef.js": "/201_blade_master/precache-manifest.88a4db0b890904ea3e827f60b0b251ef.js",
+    "service-worker.js": "/201_blade_master/service-worker.js",
+    "static/css/main.cea9e08d.chunk.css.map": "/201_blade_master/static/css/main.cea9e08d.chunk.css.map",
+    "static/js/2.f9f0db7f.chunk.js.LICENSE.txt": "/201_blade_master/static/js/2.f9f0db7f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/201_blade_master/static/media/gallery.731a3594.jpg",
+    "static/media/behance-logo.svg": "/201_blade_master/static/media/behance-logo.0851cd39.svg",
+    "static/media/github-logo.svg": "/201_blade_master/static/media/github-logo.0736056d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0de5446.js",
+    "static/js/runtime-main.68d8c4d8.js",
     "static/js/2.f9f0db7f.chunk.js",
-    "static/css/main.2b980666.chunk.css",
+    "static/css/main.cea9e08d.chunk.css",
     "static/js/main.a8911e64.chunk.js"
   ]
 }
