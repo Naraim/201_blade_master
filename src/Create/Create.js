@@ -1,5 +1,5 @@
 import React from 'react';
-import '../Create/Create.css';
+import '../App.css';
 
 
 function Create() {

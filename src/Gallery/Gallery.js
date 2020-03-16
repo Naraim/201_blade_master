@@ -1,5 +1,5 @@
 import React from 'react';
-import '../Gallery/Gallery.css';
+import '../App.css';
 import {Link} from 'react-router-dom';
 import Behance from '../assets/buttons/behance-logo.svg';
 import Github from '../assets/buttons/github-logo.svg';
@@ -7,7 +7,7 @@ import Github from '../assets/buttons/github-logo.svg';
 
 function Gallery() {
 return(
-    <div className="container--gallery">
+    <div className=" container container--gallery">
           <div className="container__top">
                 <ul className="navbar">
                     <li className="navbar__item"><Link className="navbar__link" to="/">Home</Link></li>
@@ -30,8 +30,8 @@ return(
                 </div>
             </div>
             <div className="logos">
-                <div className="logos__item"><a href="https://www.behance.net/Naraim" target="_blank"><img src={Behance}/></a></div>
-                <div className="logos__item"><a href="https://www.github.com/Naraim" target="_blank"><img src={Github}/></a></div>
+            <div className="logos__item"><a href="https://www.behance.net/Naraim" target="_blank" rel="noopener noreferrer"><img src={Behance} alt="Behance"/></a></div>
+                <div className="logos__item"><a href="https://www.github.com/Naraim" target="_blank" rel="noopener noreferrer"><img src={Github} alt="Github"/></a></div>
             </div>
     </div>
 );

@@ -9,13 +9,9 @@ function App() {
   return (
     <div className="App">
      <HashRouter>
-
-      
-
-      <Route path="/Gallery" exact component={Gallery} />
-      <Route path="/Create" exact component={Create} />
+      <Route path="/Gallery" component={Gallery} />
+      <Route path="/Create" component={Create} />
       <Route path="/" exact component={Home} />
-
      </HashRouter>
     </div>
   );
